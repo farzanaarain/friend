@@ -6,5 +6,5 @@
 
 <?php
      $f_name= $_GET['frind_name'];
-	 echo "komodo : $f_name";
+	 echo "msword : $f_name";
 	 ?>
