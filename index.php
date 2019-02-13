@@ -6,5 +6,5 @@
 
 <?php
      $f_name= $_GET['frind_name'];
-	 echo "moon : $f_name";
+	 echo "komodo : $f_name";
 	 ?>
